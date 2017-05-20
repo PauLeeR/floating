@@ -53,16 +53,19 @@ p {
 }
 
 .img_1 {
+    padding: 20px;
     width: 30%;/*el ej decìa no dar estilos a la imagen 1 pero solo le di ancho para que no quedara detràs de las otras ocupando mucho espacio*/
 }
 
 .img_2 {
+    padding: 5px;
     width: 30%;
     float: left;
     margin: 20px;
 }
 
 .img_3 {
+    padding: 5px;
     width: 30%;
     float: right;
     margin: 20px;
